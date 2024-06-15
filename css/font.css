@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "Monrope-ExtraBold";
+    src: url("../fonts/Manrope/Manrope-ExtraBold.ttf"),format("truetype");
+} 
+
+
+@font-face {
+    font-family: "Monrope-Bold";
+    src: url("../fonts/Manrope/Manrope-Bold.ttf"),format("truetype");
+} 
+
+
+@font-face {
+    font-family: "Monrope-SemiBold";
+    src: url("../fonts/Manrope/Manrope-SemiBold.ttf"),format("truetype");
+} 
+
+
+@font-face {
+    font-family: "Monrope-Medium";
+    src: url("../fonts/Manrope/Manrope-Medium.ttf"),format("truetype");
+} 
+
+
+@font-face {
+    font-family: "Monrope-Regular";
+    src: url("../fonts/Manrope/Manrope-Regular.ttf"),format("truetype");
+} 
+
+
+@font-face {
+    font-family: "Monrope-Light";
+    src: url("../fonts/Manrope/Manrope-Light.ttf"),format("truetype");
+} 
+
+
+@font-face {
+    font-family: "Gilroy-ExtraBold";
+    src: url("../fonts/Gilroy/Gilroy-ExtraBold.otf"),format("opentype");
+} 
+
+
+@font-face {
+    font-family: "Gilroy-Light";
+    src: url("../fonts/Gilroy/Gilroy-Light.otf"),format("opentype");
+}
